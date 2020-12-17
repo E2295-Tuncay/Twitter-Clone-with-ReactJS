@@ -9,6 +9,7 @@ function App() {
     <div className="app">
       <Sidebar />
       {/* <Feed /> */}
+      <Text>deneme</Text>
       <Widgets />
     </div>
   );
